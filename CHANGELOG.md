@@ -7,6 +7,10 @@ All notable changes to this project will be documented in this file.
 
 # [latest version none]
 
+## [1.0.0] - 2017-12-03
+ - Added restful package
+ - Added Job.php controller with CRUD capabilities.
+
 ## [1.0.0] - 2017-12-02
  - Removed controllers except Welcome.
  - Removed views except homepage.
